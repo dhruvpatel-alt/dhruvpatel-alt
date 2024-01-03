@@ -29,3 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvpatel-alt&show_icons=true&locale=en&layout=compact" alt="dhruvpatel-alt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvpatel-alt&show_icons=true&locale=en" alt="dhruvpatel-alt" /></p>
+
+## 🌟 Badges:
+[![An image of @dhruvpatelalt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvpatelalt)](https://holopin.io/@dhruvpatelalt)
+
